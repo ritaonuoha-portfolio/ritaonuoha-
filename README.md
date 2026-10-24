@@ -67,8 +67,7 @@ A sales analytics project focused on exploring business performance and presenti
 - Identifying trends and business insights.
 - Supporting data-driven decision-making.
 
-🔗 [View Repository](YOUR_NOVA_MART_REPOSITORY_LINK)
-
+🔗 [View Repository](https://github.com/ritaonuoha-portfolio/novamart-sales-performance-analysis)
 ### 2. 🛒 Pathfinder Supermarket Sales Analysis
 **Tools:** Power BI, Excel
 
@@ -80,7 +79,7 @@ A supermarket sales analysis project exploring sales performance and customer ra
 - KPI development and dashboard design.
 - Communicating insights through data visualisation.
 
-🔗 [View Repository](YOUR_PATHFINDER_REPOSITORY_LINK)
+🔗 [View Repository](https://github.com/ritaonuoha-portfolio/Pathfinder-Supermarket-Sales-Analysis-Interactive-Power-BI-Dashboard)
 
 ### 3. 📊 Superstore Sales Analysis
 **Tools:** Power BI, Power Query, DAX
@@ -99,7 +98,7 @@ An interactive business intelligence project designed to examine sales, profitab
 - Regional and customer performance comparisons.
 - Interactive dashboard design.
 
-🔗 [View Repository](YOUR_SUPERSTORE_REPOSITORY_LINK)
+🔗 [View Repository](https://github.com/ritaonuoha-portfolio/Superstore-Sales-Analysis))
 
 ### 4. 🕵️ SQL Murder Mystery
 **Tools:** SQL, SQLite
@@ -115,9 +114,25 @@ A SQL investigation project in which I analysed a fictional crime database, exam
 
 **Outcome:** Identified Jeremy Brewer as the murderer and investigated the person who hired him using related database records.
 
-🔗 [View Repository](YOUR_SQL_MURDER_MYSTERY_REPOSITORY_LINK)
+🔗 [View Repository](https://github.com/ritaonuoha-portfolio/SQL-Murder-Mystery)https://github.com/ritaonuoha-portfolio/SQL-Murder-Mystery)
 
-### 5. 🧹 Python Data Cleaning
+### 5.✈️ Skylink On-Time Flight Performance Analysis
+**Tools:** Microsoft Excel, Power Query
+
+An Excel data analytics project focused on analysing airline on-time performance, identifying factors contributing to flight delays, and understanding the impact of delays on overall flight operations.
+
+**Key focus areas:**
+- Cleaning and transforming flight data using Power Query.
+- Analysing on-time performance and flight delays.
+- Identifying key factors contributing to late departures and delays.
+- Examining the impact of delays on flight operations.
+- Presenting insights to support better operational decision-making.
+
+**Key skills demonstrated:** Data cleaning, data transformation, exploratory data analysis, Excel analysis, and data-driven problem-solving.
+
+🔗 **[View Project Repository](https://github.com/ritaonuoha-portfolio/skyline-air-on-time-performance-analysis))**
+
+- ### 5. 🧹 Python Data Cleaning
 **Tools:** Python, Jupyter Notebook
 
 A practical project focused on preparing data for analysis using Python-based data cleaning techniques.
@@ -174,8 +189,8 @@ I believe effective data analysis is not just about producing charts or dashboar
 
 I'm always happy to connect with recruiters, hiring managers, data professionals, fellow learners, and organisations interested in using data to solve business problems.
 
-- 💼 **LinkedIn:** [Connect with me](YOUR_LINKEDIN_PROFILE_LINK)
-- 📧 **Email:** [Contact me](YOUR_EMAIL_ADDRESS)
+- 💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/ritachidimmaonuoha/?isSelfProfile=true)
+- 📧 **Email:** [Contact me](chiritaonuoha@gmail.com)
 
 ---
 
